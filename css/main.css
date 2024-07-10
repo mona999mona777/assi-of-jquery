@@ -5,7 +5,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-
+.final{
+  width: 75%;
+}
 ul {
   list-style: none;
   text-decoration: none;
@@ -290,44 +292,44 @@ form .count {
 /* section-4 */
   .contact-title h2 {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 25px;
+    font-size: 15px;
     font-weight: 700;
     color: rgb(68, 68, 68);
   }
   .contact-title p {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 8px;
     font-weight: 300;
     color: rgb(119, 119, 119);
   }
   .contact-prag h3 {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 900;
     color: rgb(68, 68, 68);
   }
   .contact-prag p {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 400;
     color: rgb(119, 119, 119);
   }
   .data li span {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 400;
     color: rgb(119, 119, 119);
   }
   .form-control {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 400;
     color: rgb(73, 80, 87);
   }
 
   form #the-message {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 400;
     color: rgb(33, 37, 41);
   }
@@ -336,5 +338,13 @@ form .count {
     font-size: 10px;
     font-weight: 400;
     color: rgb(214, 46, 51);
+  }
+  .final{
+    width: 85%;
+  }
+  .social li {
+    padding: 5px;
+    border: solid 1px rgb(128, 128, 128);
+    color: rgb(128, 128, 128);
   }
 }
