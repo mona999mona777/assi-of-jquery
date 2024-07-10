@@ -347,7 +347,5 @@ form .count {
     border: solid 1px rgb(128, 128, 128);
     color: rgb(128, 128, 128);
   }
-  .change-width {
-    width: 80px;
-  }
+
 }
