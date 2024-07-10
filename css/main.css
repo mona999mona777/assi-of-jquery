@@ -322,20 +322,20 @@ form .count {
   }
   .form-control {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 8px;
+    font-size: 6px;
     font-weight: 400;
     color: rgb(73, 80, 87);
   }
 
   form #the-message {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 8px;
+    font-size: 6px;
     font-weight: 400;
     color: rgb(33, 37, 41);
   }
   form .count {
     font-family: Segoe "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 400;
     color: rgb(214, 46, 51);
   }
@@ -346,5 +346,8 @@ form .count {
     padding: 5px;
     border: solid 1px rgb(128, 128, 128);
     color: rgb(128, 128, 128);
+  }
+  .change-width {
+    width: 80px;
   }
 }
